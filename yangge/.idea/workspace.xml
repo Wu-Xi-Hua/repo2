@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="179c380d-0545-413f-8a09-ab4533a2fbf5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rWD3fttixA86oOrwau1ha0cJbu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BaiduNetdiskDownload/spring/itheima_spring_aop" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.QueueTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BB">
+    <configuration name="BB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BB" />
+      <module name="yangge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaTest" />
+      <module name="yangge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Metaspace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OOM.Metaspace" />
+      <module name="yangge" />
+      <option name="VM_PARAMETERS" value="-XX:MetaspaceSize=8m -XX:MaxMetaspaceSize=8m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.OOM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="intern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JUC.intern" />
+      <module name="yangge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JUC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="towNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JUC.towNum" />
+      <module name="yangge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JUC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Metaspace" />
+      <item itemvalue="Application.intern" />
+      <item itemvalue="Application.towNum" />
+      <item itemvalue="Application.JavaTest" />
+      <item itemvalue="Application.BB" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BB" />
+        <item itemvalue="Application.JavaTest" />
+        <item itemvalue="Application.towNum" />
+        <item itemvalue="Application.intern" />
+        <item itemvalue="Application.Metaspace" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="179c380d-0545-413f-8a09-ab4533a2fbf5" name="Default Changelist" comment="" />
+      <created>1619082754415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619082754415</updated>
+      <workItem from="1619082755490" duration="11798000" />
+      <workItem from="1619095336608" duration="9389000" />
+      <workItem from="1619108863133" duration="361000" />
+      <workItem from="1619109233941" duration="128000" />
+      <workItem from="1619109371119" duration="135000" />
+      <workItem from="1619109515398" duration="91000" />
+      <workItem from="1619109615566" duration="404000" />
+      <workItem from="1619110029598" duration="95000" />
+      <workItem from="1619110133693" duration="142000" />
+      <workItem from="1619110285598" duration="57000" />
+      <workItem from="1619110352647" duration="68000" />
+      <workItem from="1619110430267" duration="78000" />
+      <workItem from="1619110518247" duration="73000" />
+      <workItem from="1619110601428" duration="103000" />
+      <workItem from="1619110714047" duration="49000" />
+      <workItem from="1619110772382" duration="88000" />
+      <workItem from="1619110870550" duration="39000" />
+      <workItem from="1619110919474" duration="49000" />
+      <workItem from="1619110978131" duration="73000" />
+      <workItem from="1619111060741" duration="78000" />
+      <workItem from="1619111148770" duration="71000" />
+      <workItem from="1619111229983" duration="31000" />
+      <workItem from="1619111271187" duration="46000" />
+      <workItem from="1619111326841" duration="113000" />
+      <workItem from="1619111467734" duration="50000" />
+      <workItem from="1619111527621" duration="38000" />
+      <workItem from="1619111575008" duration="70000" />
+      <workItem from="1619111654861" duration="220000" />
+      <workItem from="1619111884578" duration="1427000" />
+      <workItem from="1619113330191" duration="268000" />
+      <workItem from="1619126751611" duration="13961000" />
+      <workItem from="1619166305865" duration="5874000" />
+      <workItem from="1619245906119" duration="1259000" />
+      <workItem from="1619847914080" duration="4111000" />
+      <workItem from="1619911669687" duration="7806000" />
+      <workItem from="1620172222383" duration="8893000" />
+      <workItem from="1621217380448" duration="734000" />
+      <workItem from="1623409486771" duration="10476000" />
+      <workItem from="1623628839066" duration="1294000" />
+      <workItem from="1623891823413" duration="2110000" />
+      <workItem from="1624173615030" duration="715000" />
+      <workItem from="1629042610103" duration="446000" />
+      <workItem from="1629216415054" duration="970000" />
+      <workItem from="1632708891324" duration="625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1629216636725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1629216636725" />
+    <state x="675" y="352" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1623891977008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="352" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1623891977008" />
+    <state x="514" y="163" key="FileChooserDialogImpl" timestamp="1629042782020">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="514" y="163" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1629042782020" />
+    <state width="401" height="879" key="GridCell.Tab.0.bottom" timestamp="1629225031256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="401" height="879" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629225031256" />
+    <state width="401" height="879" key="GridCell.Tab.0.center" timestamp="1629225031255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="401" height="879" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629225031255" />
+    <state width="401" height="879" key="GridCell.Tab.0.left" timestamp="1629225031255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="401" height="879" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629225031255" />
+    <state width="401" height="879" key="GridCell.Tab.0.right" timestamp="1629225031256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="401" height="879" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629225031256" />
+    <state width="1867" height="3" key="GridCell.Tab.1.bottom" timestamp="1623425980991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="3" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1623425980991" />
+    <state width="1867" height="3" key="GridCell.Tab.1.center" timestamp="1623425980991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="3" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1623425980991" />
+    <state width="1867" height="3" key="GridCell.Tab.1.left" timestamp="1623425980991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="3" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1623425980991" />
+    <state width="1867" height="3" key="GridCell.Tab.1.right" timestamp="1623425980991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="3" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1623425980991" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/yangge$GCOverHead.ic" NAME="GCOverHead Coverage Results" MODIFIED="1620178953048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.OOM.*</FILTER>
+    </SUITE>
+  </component>
+</project>
